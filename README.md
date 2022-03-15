@@ -1,1 +1,3 @@
 # CITS3001_Project
+For this project you will be able to work alone, or in pairs. You will be required to research, implement and validate agents to play in the game Resistance. You will be provided with some tamplate code to implement and agent in Java or Python, some very basic agents, and a basic class to run a game. We will also provide some scaffolding code to allow Java or Python agents to interact with a webserver to play other agents. These can be found on github and will be regularly updated. You may use a different programming language, but you will have to implement you own websockets interface.
+
